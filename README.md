@@ -1,1 +1,1 @@
-## Hey, wanna hear a joke?</br>- Parsing HTML with regex.
+## How do you generate a random string?</br>- Put a Windows user in front of Vim and tell him to exit.
