@@ -4,7 +4,8 @@
   "description": "<!--\r **unravel123/unravel123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node index.js"
   },
   "repository": {
     "type": "git",
