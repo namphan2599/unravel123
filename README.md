@@ -1,1 +1,1 @@
-## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
+## Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
