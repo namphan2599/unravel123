@@ -1,6 +1,1 @@
-## "Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+## So what's a set of predefined steps the government might take to preserve the environment?</br>- An Al-Gore-ithm.
