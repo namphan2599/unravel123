@@ -1,1 +1,1 @@
-## So what's a set of predefined steps the government might take to preserve the environment?</br>- An Al-Gore-ithm.
+## .NET developers are picky when it comes to food.</br>- They only like chicken NuGet.
