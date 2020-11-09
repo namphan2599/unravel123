@@ -1,1 +1,1 @@
-## Why are modern programming  languages so materialistic?</br>- Because they are object-oriented.
+## Why did the JavaScript heap close shop?</br>- It ran out of memory.
