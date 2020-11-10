@@ -1,1 +1,1 @@
-## Why did the JavaScript heap close shop?</br>- It ran out of memory.
+## .NET developers are picky when it comes to food.</br>- They only like chicken NuGet.
