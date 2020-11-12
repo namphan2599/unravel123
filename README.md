@@ -1,1 +1,3 @@
-## Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+## A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float".
+The guy says "In that case, better make it a double."
