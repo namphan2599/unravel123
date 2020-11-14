@@ -1,1 +1,1 @@
-## How can you tell an extroverted programmer?</br>- He looks at YOUR shoes when he's talking.
+## Why do they call it hyper terminal?</br>- Too much Java.
