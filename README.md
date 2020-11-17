@@ -1,1 +1,1 @@
-## How can you tell an extroverted programmer?</br>- He looks at YOUR shoes when he's talking.
+## What do you call a developer who doesn't comment code?</br>- A developer.
