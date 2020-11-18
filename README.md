@@ -1,1 +1,1 @@
-## What do you call a developer who doesn't comment code?</br>- A developer.
+## .NET developers are picky when it comes to food.</br>- They only like chicken NuGet.
