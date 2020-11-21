@@ -1,1 +1,1 @@
-## How do you generate a random string?</br>- Put a Windows user in front of Vim and tell him to exit.
+## Why do they call it hyper terminal?</br>- Too much Java.
