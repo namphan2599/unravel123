@@ -1,1 +1,1 @@
-## Why do they call it hyper terminal?</br>- Too much Java.
+## // This line doesn't actually do anything, but the code stops working when I delete it.
