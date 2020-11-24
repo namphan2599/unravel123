@@ -1,1 +1,1 @@
-## What do you call a group of 8 Hobbits?</br>- A Hobbyte.
+## How did you make your friend rage?</br>- I implemented a greek question mark in his JavaScript code.
