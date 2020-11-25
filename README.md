@@ -1,1 +1,1 @@
-## How did you make your friend rage?</br>- I implemented a greek question mark in his JavaScript code.
+## Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
