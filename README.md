@@ -1,1 +1,1 @@
-## Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+## What do you call a group of 8 Hobbits?</br>- A Hobbyte.
