@@ -1,3 +1,1 @@
-## "Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."
+## What do you call a developer who doesn't comment code?</br>- A developer.
