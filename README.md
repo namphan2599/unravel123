@@ -1,5 +1,1 @@
-## How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+## Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
