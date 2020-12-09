@@ -1,2 +1,1 @@
-## A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+## The generation of random numbers is too important to be left to chance.
