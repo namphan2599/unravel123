@@ -1,1 +1,1 @@
-## Why did the Python programmer not respond to the foreign mails he got?</br>- Because his interpreter was busy collecting garbage.
+## Why did the programmer jump on the table?</br>- Because debug was on his screen.
