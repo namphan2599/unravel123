@@ -1,1 +1,1 @@
-## Why did the programmer jump on the table?</br>- Because debug was on his screen.
+## Hey baby I wish your name was asynchronous...</br>- ... so you'd give me a callback.
