@@ -1,1 +1,3 @@
-## What is the best prefix for global variables?</br>- //
+## 1. Open terminal
+2. mkdir snuts
+3. cd snuts
