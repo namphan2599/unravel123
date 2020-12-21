@@ -1,3 +1,1 @@
-## 1. Open terminal
-2. mkdir snuts
-3. cd snuts
+## Why is 6 afraid of 7 in hexadecimal Canada?</br>- Because 7 8 9 A?
