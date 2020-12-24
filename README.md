@@ -1,1 +1,1 @@
-## TIL that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
+## Algorithm: A word used by programmers when they don't want to explain how their code works.
