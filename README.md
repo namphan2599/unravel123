@@ -1,1 +1,1 @@
-## Hey, wanna hear a joke?</br>- Parsing HTML with regex.
+## ASCII silly question, get a silly ANSI.
