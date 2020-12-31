@@ -1,4 +1,1 @@
-## "Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+## What is the best prefix for global variables?</br>- //
