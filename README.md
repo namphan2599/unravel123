@@ -1,1 +1,1 @@
-## What do you get if you lock a monkey in a room with a typewriter for 8 hours?</br>- A regular expression.
+## Why is 6 afraid of 7 in hexadecimal Canada?</br>- Because 7 8 9 A?
