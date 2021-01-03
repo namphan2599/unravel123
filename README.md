@@ -1,1 +1,1 @@
-## Why is 6 afraid of 7 in hexadecimal Canada?</br>- Because 7 8 9 A?
+## The generation of random numbers is too important to be left to chance.
