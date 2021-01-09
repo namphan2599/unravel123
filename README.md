@@ -1,1 +1,1 @@
-## Why do programmers confuse Halloween and Christmas?</br>- Because Oct 31 = Dec 25
+## Why did the programmer quit his job?</br>- Because he didn't get arrays.
