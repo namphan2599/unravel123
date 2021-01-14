@@ -1,1 +1,1 @@
-## What's the object-oriented way to become wealthy?</br>- Inheritance.
+## Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
