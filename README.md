@@ -1,1 +1,1 @@
-## Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
