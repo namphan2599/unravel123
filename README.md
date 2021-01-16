@@ -1,1 +1,1 @@
-## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
+## Why does no one like SQLrillex?</br>- He keeps dropping the database.
