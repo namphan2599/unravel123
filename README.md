@@ -1,1 +1,1 @@
-## Why does no one like SQLrillex?</br>- He keeps dropping the database.
+## Why did the database administrator leave his wife?</br>- She had one-to-many relationships.
