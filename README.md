@@ -1,1 +1,1 @@
-## Why did the database administrator leave his wife?</br>- She had one-to-many relationships.
+## There are only 10 kinds of people in this world: those who know binary and those who don't.
