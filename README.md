@@ -1,1 +1,1 @@
-## Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+## Why are Assembly programmers always soaking wet?</br>- They work below C-level.
