@@ -1,1 +1,1 @@
-## Why are Assembly programmers always soaking wet?</br>- They work below C-level.
+## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
