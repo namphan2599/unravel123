@@ -1,1 +1,4 @@
-## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
+## Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
