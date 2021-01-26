@@ -1,1 +1,1 @@
-## Why are Assembly programmers always soaking wet?</br>- They work below C-level.
+## There are only 10 kinds of people in this world: those who know binary and those who don't.
