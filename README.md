@@ -1,1 +1,4 @@
-## There are only 10 kinds of people in this world: those who know binary and those who don't.
+## Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
