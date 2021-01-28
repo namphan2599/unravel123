@@ -1,4 +1,1 @@
-## Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."
+## Why did the JavaScript heap close shop?</br>- It ran out of memory.
