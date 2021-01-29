@@ -1,1 +1,1 @@
-## Why did the JavaScript heap close shop?</br>- It ran out of memory.
+## A web developer walks into a restaurant.</br>- He immediately leaves in disgust as the restaurant was laid out in tables.
