@@ -1,1 +1,1 @@
-## A web developer walks into a restaurant.</br>- He immediately leaves in disgust as the restaurant was laid out in tables.
+## Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
