@@ -1,1 +1,1 @@
-## Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+## I've got a really good UDP joke to tell you but I don’t know if you'll get it.
