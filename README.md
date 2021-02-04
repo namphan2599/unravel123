@@ -1,1 +1,1 @@
-## ASCII silly question, get a silly ANSI.
+## Why did the programmer jump on the table?</br>- Because debug was on his screen.
