@@ -1,4 +1,1 @@
-## A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+## How do you know God is a shitty programmer?</br>- He wrote the OS for an entire universe, but didn't leave a single useful comment.
