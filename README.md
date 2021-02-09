@@ -1,1 +1,1 @@
-## why do python programmers wear glasses?</br>- Because they can't C.
+## Why are assembly programmers always soaking wet?</br>- Because they work below C level.
