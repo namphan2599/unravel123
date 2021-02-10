@@ -1,1 +1,1 @@
-## Why are assembly programmers always soaking wet?</br>- Because they work below C level.
+## Hey baby I wish your name was asynchronous...</br>- ... so you'd give me a callback.
