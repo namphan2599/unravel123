@@ -1,1 +1,1 @@
-## Hey baby I wish your name was asynchronous...</br>- ... so you'd give me a callback.
+## How do you generate a random string?</br>- Put a Windows user in front of Vim and tell him to exit.
