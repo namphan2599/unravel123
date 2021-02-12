@@ -1,1 +1,1 @@
-## How do you generate a random string?</br>- Put a Windows user in front of Vim and tell him to exit.
+## Why does no one like SQLrillex?</br>- He keeps dropping the database.
