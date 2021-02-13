@@ -1,1 +1,1 @@
-## Why does no one like SQLrillex?</br>- He keeps dropping the database.
+## Why did the functional programmer get thrown out of school?</br>- Because he refused to take classes.
