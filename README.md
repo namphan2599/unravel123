@@ -1,1 +1,1 @@
-## Why did the functional programmer get thrown out of school?</br>- Because he refused to take classes.
+## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
