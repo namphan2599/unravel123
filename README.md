@@ -1,1 +1,1 @@
-## Why is Linux safe?</br>- Hackers peak through Windows only.
+## What do you call a group of 8 Hobbits?</br>- A Hobbyte.
