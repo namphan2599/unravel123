@@ -1,1 +1,6 @@
-## What do you call a group of 8 Hobbits?</br>- A Hobbyte.
+## "Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
