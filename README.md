@@ -1,1 +1,1 @@
-## How can you tell an extroverted programmer?</br>- He looks at YOUR shoes when he's talking.
+## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
