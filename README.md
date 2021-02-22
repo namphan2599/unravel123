@@ -1,1 +1,1 @@
-## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
+## Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
