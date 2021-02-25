@@ -1,1 +1,1 @@
-## How can you tell an extroverted programmer?</br>- He looks at YOUR shoes when he's talking.
+## How do you generate a random string?</br>- Put a Windows user in front of Vim and tell him to exit.
