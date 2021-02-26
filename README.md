@@ -1,1 +1,1 @@
-## How do you generate a random string?</br>- Put a Windows user in front of Vim and tell him to exit.
+## A web developer walks into a restaurant.</br>- He immediately leaves in disgust as the restaurant was laid out in tables.
