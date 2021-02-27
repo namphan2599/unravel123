@@ -1,1 +1,1 @@
-## A web developer walks into a restaurant.</br>- He immediately leaves in disgust as the restaurant was laid out in tables.
+## Why did the Python programmer not respond to the foreign mails he got?</br>- Because his interpreter was busy collecting garbage.
