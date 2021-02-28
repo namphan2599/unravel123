@@ -1,1 +1,1 @@
-## Why did the Python programmer not respond to the foreign mails he got?</br>- Because his interpreter was busy collecting garbage.
+## How did you make your friend rage?</br>- I implemented a greek question mark in his JavaScript code.
