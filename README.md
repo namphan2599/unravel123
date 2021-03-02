@@ -1,4 +1,1 @@
-## "Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+## How can you tell an extroverted programmer?</br>- He looks at YOUR shoes when he's talking.
