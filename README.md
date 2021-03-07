@@ -1,1 +1,1 @@
-## why do python programmers wear glasses?</br>- Because they can't C.
+## Debugging: Removing the needles from the haystack.
