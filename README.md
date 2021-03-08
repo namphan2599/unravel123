@@ -1,1 +1,1 @@
-## Debugging: Removing the needles from the haystack.
+## Why did the Python programmer not respond to the foreign mails he got?</br>- Because his interpreter was busy collecting garbage.
