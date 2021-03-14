@@ -1,1 +1,1 @@
-## How did you make your friend rage?</br>- I implemented a greek question mark in his JavaScript code.
+## Why was the JavaScript developer sad?</br>- Because he didn't Node how to Express himself!
