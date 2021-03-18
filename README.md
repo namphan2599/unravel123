@@ -1,1 +1,1 @@
-## Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+## .NET developers are picky when it comes to food.</br>- They only like chicken NuGet.
