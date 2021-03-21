@@ -1,1 +1,1 @@
-## What are bits?</br>- Tiny things left when you drop your computer down the stairs.
+## Why do they call it hyper terminal?</br>- Too much Java.
