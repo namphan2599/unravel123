@@ -1,1 +1,1 @@
-## Why do they call it hyper terminal?</br>- Too much Java.
+## The generation of random numbers is too important to be left to chance.
