@@ -1,1 +1,1 @@
-## The generation of random numbers is too important to be left to chance.
+## Why are Assembly programmers always soaking wet?</br>- They work below C-level.
