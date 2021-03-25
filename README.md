@@ -1,4 +1,1 @@
-## Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."
+## Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
