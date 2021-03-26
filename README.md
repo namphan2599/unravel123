@@ -1,1 +1,1 @@
-## Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+## How can you tell an extroverted programmer?</br>- He looks at YOUR shoes when he's talking.
