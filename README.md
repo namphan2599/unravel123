@@ -1,1 +1,4 @@
-## How do you know God is a shitty programmer?</br>- He wrote the OS for an entire universe, but didn't leave a single useful comment.
+## Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
