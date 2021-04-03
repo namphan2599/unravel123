@@ -1,1 +1,1 @@
-## Why do programmers wear glasses?</br>- Because they need to C#
+## Why are Assembly programmers always soaking wet?</br>- They work below C-level.
