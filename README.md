@@ -1,1 +1,1 @@
-## Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+## Why is 6 afraid of 7 in hexadecimal Canada?</br>- Because 7 8 9 A?
