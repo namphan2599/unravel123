@@ -1,1 +1,1 @@
-## why do python programmers wear glasses?</br>- Because they can't C.
+## Why did the database administrator leave his wife?</br>- She had one-to-many relationships.
