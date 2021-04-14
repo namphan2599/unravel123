@@ -1,1 +1,1 @@
-## Why was the JavaScript developer sad?</br>- Because he didn't Node how to Express himself!
+## Why did the Python data scientist get arrested at customs?</br>- She was caught trying to import pandas!
