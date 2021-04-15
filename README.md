@@ -1,1 +1,1 @@
-## Why did the Python data scientist get arrested at customs?</br>- She was caught trying to import pandas!
+## If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
