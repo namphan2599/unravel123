@@ -1,1 +1,1 @@
-## How did you make your friend rage?</br>- I implemented a greek question mark in his JavaScript code.
+## Hey, wanna hear a joke?</br>- Parsing HTML with regex.
