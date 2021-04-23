@@ -1,4 +1,1 @@
-## Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."
+## What is a dying programmer's last program?</br>- Goodbye, world!
