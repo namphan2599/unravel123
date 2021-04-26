@@ -1,1 +1,1 @@
-## Your momma is so fat, you need to switch to NTFS to store a picture of her.
+## What is the best prefix for global variables?</br>- //
