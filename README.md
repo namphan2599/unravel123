@@ -1,1 +1,1 @@
-## Why is Linux safe?</br>- Hackers peak through Windows only.
+## Your momma is so fat, you need to switch to NTFS to store a picture of her.
