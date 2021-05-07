@@ -1,1 +1,1 @@
-## Your momma is so fat, you need to switch to NTFS to store a picture of her.
+## Why are Assembly programmers always soaking wet?</br>- They work below C-level.
