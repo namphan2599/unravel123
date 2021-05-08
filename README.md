@@ -1,1 +1,5 @@
-## Why are Assembly programmers always soaking wet?</br>- They work below C-level.
+## Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
