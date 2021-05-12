@@ -1,4 +1,1 @@
-## "Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+## How did you make your friend rage?</br>- I implemented a greek question mark in his JavaScript code.
