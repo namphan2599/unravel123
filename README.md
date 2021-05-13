@@ -1,1 +1,4 @@
-## How did you make your friend rage?</br>- I implemented a greek question mark in his JavaScript code.
+## Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
