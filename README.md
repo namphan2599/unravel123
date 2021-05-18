@@ -1,1 +1,1 @@
-## Why do programmers prefer using the dark mode?</br>- Because light attracts bugs.
+## Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
