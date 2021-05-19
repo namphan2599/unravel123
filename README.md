@@ -1,1 +1,1 @@
-## Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+## Debugging: Removing the needles from the haystack.
