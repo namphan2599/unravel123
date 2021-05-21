@@ -1,1 +1,4 @@
-## Hey baby I wish your name was asynchronous...</br>- ... so you'd give me a callback.
+## Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
