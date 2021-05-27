@@ -1,1 +1,1 @@
-## What is the most used language in programming?</br>- Profanity.
+## Why are Assembly programmers always soaking wet?</br>- They work below C-level.
