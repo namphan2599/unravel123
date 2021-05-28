@@ -1,1 +1,1 @@
-## Why are Assembly programmers always soaking wet?</br>- They work below C-level.
+## .NET developers are picky when it comes to food.</br>- They only like chicken NuGet.
