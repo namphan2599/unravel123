@@ -1,1 +1,1 @@
-## .NET developers are picky when it comes to food.</br>- They only like chicken NuGet.
+## Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
