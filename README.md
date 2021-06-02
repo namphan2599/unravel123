@@ -1,1 +1,5 @@
-## A web developer walks into a restaurant.</br>- He immediately leaves in disgust as the restaurant was laid out in tables.
+## Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
