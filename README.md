@@ -1,1 +1,1 @@
-## There are only 10 kinds of people in this world: those who know binary and those who don't.
+## Why did the functional programmer get thrown out of school?</br>- Because he refused to take classes.
