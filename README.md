@@ -1,1 +1,1 @@
-## Why did the functional programmer get thrown out of school?</br>- Because he refused to take classes.
+## What are bits?</br>- Tiny things left when you drop your computer down the stairs.
