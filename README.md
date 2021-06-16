@@ -1,1 +1,1 @@
-## Why was the JavaScript developer sad?</br>- Because he didn't Node how to Express himself!
+## why do python programmers wear glasses?</br>- Because they can't C.
