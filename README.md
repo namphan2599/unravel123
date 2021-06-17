@@ -1,1 +1,1 @@
-## why do python programmers wear glasses?</br>- Because they can't C.
+## Why did the functional programmer get thrown out of school?</br>- Because he refused to take classes.
