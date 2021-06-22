@@ -1,1 +1,1 @@
-## // This line doesn't actually do anything, but the code stops working when I delete it.
+## Why did the JavaScript heap close shop?</br>- It ran out of memory.
