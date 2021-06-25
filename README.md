@@ -1,1 +1,1 @@
-## What's the object-oriented way to become wealthy?</br>- Inheritance.
+## Why do programmers prefer using the dark mode?</br>- Because light attracts bugs.
