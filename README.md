@@ -1,1 +1,1 @@
-## Why do programmers prefer using the dark mode?</br>- Because light attracts bugs.
+## What is the best prefix for global variables?</br>- //
