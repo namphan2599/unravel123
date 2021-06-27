@@ -1,1 +1,1 @@
-## What is the best prefix for global variables?</br>- //
+## .NET developers are picky when it comes to food.</br>- They only like chicken NuGet.
