@@ -1,1 +1,1 @@
-## .NET developers are picky when it comes to food.</br>- They only like chicken NuGet.
+## What are bits?</br>- Tiny things left when you drop your computer down the stairs.
