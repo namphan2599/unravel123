@@ -1,1 +1,1 @@
-## What are bits?</br>- Tiny things left when you drop your computer down the stairs.
+## What do you call a group of 8 Hobbits?</br>- A Hobbyte.
