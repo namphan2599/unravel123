@@ -1,1 +1,1 @@
-## What do you call a group of 8 Hobbits?</br>- A Hobbyte.
+## What do you call a developer who doesn't comment code?</br>- A developer.
