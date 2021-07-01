@@ -1,1 +1,1 @@
-## What do you call a developer who doesn't comment code?</br>- A developer.
+## Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
