@@ -1,1 +1,1 @@
-## Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+## What is a dying programmer's last program?</br>- Goodbye, world!
