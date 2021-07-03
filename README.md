@@ -1,1 +1,1 @@
-## What is a dying programmer's last program?</br>- Goodbye, world!
+## Why is Linux safe?</br>- Hackers peak through Windows only.
