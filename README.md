@@ -1,1 +1,1 @@
-## So what's a set of predefined steps the government might take to preserve the environment?</br>- An Al-Gore-ithm.
+## why do python programmers wear glasses?</br>- Because they can't C.
