@@ -1,1 +1,1 @@
-## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
+## Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
