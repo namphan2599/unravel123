@@ -1,1 +1,1 @@
-## Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+## If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
