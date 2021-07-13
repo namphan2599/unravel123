@@ -1,5 +1,1 @@
-## Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+## Why do programmers prefer using the dark mode?</br>- Because light attracts bugs.
