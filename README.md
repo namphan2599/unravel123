@@ -1,1 +1,1 @@
-## Why do programmers prefer using the dark mode?</br>- Because light attracts bugs.
+## I have a joke about Stack Overflow, but you would say it's a duplicate.
