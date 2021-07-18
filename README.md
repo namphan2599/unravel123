@@ -1,3 +1,1 @@
-## "Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."
+## Why did the database administrator leave his wife?</br>- She had one-to-many relationships.
