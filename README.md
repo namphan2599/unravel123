@@ -1,5 +1,1 @@
-## Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+## What's the object-oriented way to become wealthy?</br>- Inheritance.
