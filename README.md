@@ -1,1 +1,1 @@
-## What's the object-oriented way to become wealthy?</br>- Inheritance.
+## If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
