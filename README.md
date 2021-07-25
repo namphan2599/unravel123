@@ -1,1 +1,1 @@
-## What is the most used language in programming?</br>- Profanity.
+## Why is Linux safe?</br>- Hackers peak through Windows only.
