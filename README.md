@@ -1,1 +1,1 @@
-## Why is Linux safe?</br>- Hackers peak through Windows only.
+## So what's a set of predefined steps the government might take to preserve the environment?</br>- An Al-Gore-ithm.
