@@ -1,1 +1,6 @@
-## How do you know God is a shitty programmer?</br>- He wrote the OS for an entire universe, but didn't leave a single useful comment.
+## "Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
