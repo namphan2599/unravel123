@@ -1,1 +1,1 @@
-## Why do programmers wear glasses?</br>- Because they need to C#
+## Why did the functional programmer get thrown out of school?</br>- Because he refused to take classes.
