@@ -1,4 +1,1 @@
-## Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."
+## What's the object-oriented way to become wealthy?</br>- Inheritance.
