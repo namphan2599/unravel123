@@ -1,1 +1,1 @@
-## Why do programmers confuse Halloween and Christmas?</br>- Because Oct 31 = Dec 25
+## How many programmers does it take to screw in a light bulb?</br>- None. It's a hardware problem.
