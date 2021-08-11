@@ -1,1 +1,1 @@
-## How did the programmer die in the shower?</br>- He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+## How many programmers does it take to screw in a light bulb?</br>- None. It's a hardware problem.
