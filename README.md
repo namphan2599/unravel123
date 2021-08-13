@@ -1,1 +1,1 @@
-## Why did the Python data scientist get arrested at customs?</br>- She was caught trying to import pandas!
+## Why do programmers confuse Halloween and Christmas?</br>- Because Oct 31 = Dec 25
