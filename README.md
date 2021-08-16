@@ -1,6 +1,1 @@
-## "Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+## Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
