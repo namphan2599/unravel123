@@ -1,1 +1,1 @@
-## Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
