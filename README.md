@@ -1,1 +1,5 @@
-## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
+## Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
