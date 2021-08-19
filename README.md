@@ -1,5 +1,1 @@
-## Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+## I've got a really good UDP joke to tell you but I don’t know if you'll get it.
