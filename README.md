@@ -1,1 +1,1 @@
-## ASCII silly question, get a silly ANSI.
+## Why did the database administrator leave his wife?</br>- She had one-to-many relationships.
