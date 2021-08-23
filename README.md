@@ -1,5 +1,1 @@
-## Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+## Algorithm: A word used by programmers when they don't want to explain how their code works.
