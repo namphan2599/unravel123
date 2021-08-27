@@ -1,1 +1,1 @@
-## Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+## Your momma is so fat, you need to switch to NTFS to store a picture of her.
