@@ -1,1 +1,1 @@
-## Why did the Python data scientist get arrested at customs?</br>- She was caught trying to import pandas!
+## How do you know God is a shitty programmer?</br>- He wrote the OS for an entire universe, but didn't leave a single useful comment.
