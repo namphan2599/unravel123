@@ -1,1 +1,4 @@
-## There are only 10 kinds of people in this world: those who know binary and those who don't.
+## A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off."
