@@ -1,1 +1,1 @@
-## Why did the programmer jump on the table?</br>- Because debug was on his screen.
+## Why do they call it hyper terminal?</br>- Too much Java.
