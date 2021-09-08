@@ -1,1 +1,1 @@
-## Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
+## So what's a set of predefined steps the government might take to preserve the environment?</br>- An Al-Gore-ithm.
