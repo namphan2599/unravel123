@@ -1,1 +1,1 @@
-## So what's a set of predefined steps the government might take to preserve the environment?</br>- An Al-Gore-ithm.
+## Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
