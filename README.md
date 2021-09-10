@@ -1,1 +1,1 @@
-## Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+## Why is Linux safe?</br>- Hackers peak through Windows only.
