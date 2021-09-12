@@ -1,1 +1,1 @@
-## The generation of random numbers is too important to be left to chance.
+## How many programmers does it take to screw in a light bulb?</br>- None. It's a hardware problem.
