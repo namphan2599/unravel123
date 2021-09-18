@@ -1,1 +1,1 @@
-## What do you get if you lock a monkey in a room with a typewriter for 8 hours?</br>- A regular expression.
+## Algorithm: A word used by programmers when they don't want to explain how their code works.
