@@ -1,1 +1,4 @@
-## Algorithm: A word used by programmers when they don't want to explain how their code works.
+## Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
