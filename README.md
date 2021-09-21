@@ -1,1 +1,1 @@
-## What is the best prefix for global variables?</br>- //
+## Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
