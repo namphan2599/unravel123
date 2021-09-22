@@ -1,1 +1,1 @@
-## Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+## Why did the Python programmer not respond to the foreign mails he got?</br>- Because his interpreter was busy collecting garbage.
