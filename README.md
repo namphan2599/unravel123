@@ -1,1 +1,1 @@
-## Why is 6 afraid of 7 in hexadecimal Canada?</br>- Because 7 8 9 A?
+## Why did the programmer jump on the table?</br>- Because debug was on his screen.
