@@ -1,1 +1,1 @@
-## How did the programmer die in the shower?</br>- He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+## What is the best prefix for global variables?</br>- //
