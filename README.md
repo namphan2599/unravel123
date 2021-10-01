@@ -1,1 +1,1 @@
-## "We messed up the keming again guys."
+## Why did the programmer jump on the table?</br>- Because debug was on his screen.
