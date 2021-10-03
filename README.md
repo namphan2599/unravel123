@@ -1,1 +1,1 @@
-## How do you know God is a shitty programmer?</br>- He wrote the OS for an entire universe, but didn't leave a single useful comment.
+## Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
