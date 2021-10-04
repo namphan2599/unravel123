@@ -1,1 +1,1 @@
-## Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+## What do you call a developer who doesn't comment code?</br>- A developer.
