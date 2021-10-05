@@ -1,1 +1,1 @@
-## What do you call a developer who doesn't comment code?</br>- A developer.
+## Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
