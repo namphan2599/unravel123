@@ -1,1 +1,1 @@
-## Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
+## Hey, wanna hear a joke?</br>- Parsing HTML with regex.
