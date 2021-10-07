@@ -1,1 +1,1 @@
-## Hey, wanna hear a joke?</br>- Parsing HTML with regex.
+## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
