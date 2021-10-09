@@ -1,1 +1,1 @@
-## What is the best prefix for global variables?</br>- //
+## Why are Assembly programmers always soaking wet?</br>- They work below C-level.
