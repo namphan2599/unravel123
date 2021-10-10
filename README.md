@@ -1,1 +1,1 @@
-## Why are Assembly programmers always soaking wet?</br>- They work below C-level.
+## Why did the web developer walk out of a resturant in disgust?</br>- The seating was laid out in tables.
