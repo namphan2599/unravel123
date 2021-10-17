@@ -1,4 +1,1 @@
-## Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."
+## .NET developers are picky when it comes to food.</br>- They only like chicken NuGet.
