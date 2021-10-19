@@ -1,4 +1,1 @@
-## A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+## Why was the JavaScript developer sad?</br>- Because they didn't Node how to Express themself!
