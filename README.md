@@ -1,1 +1,1 @@
-## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
+## Why is Linux safe?</br>- Hackers peak through Windows only.
