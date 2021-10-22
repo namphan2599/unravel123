@@ -1,1 +1,1 @@
-## Why is Linux safe?</br>- Hackers peak through Windows only.
+## What do you call a developer who doesn't comment code?</br>- A developer.
