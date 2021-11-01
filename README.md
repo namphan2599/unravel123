@@ -1,1 +1,1 @@
-## Why did the Python programmer not respond to the foreign mails he got?</br>- Because his interpreter was busy collecting garbage.
+## How many programmers does it take to screw in a light bulb?</br>- None. It's a hardware problem.
