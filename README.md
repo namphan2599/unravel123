@@ -1,1 +1,1 @@
-## Why is 6 afraid of 7 in hexadecimal Canada?</br>- Because 7 8 9 A?
+## How many programmers does it take to screw in a light bulb?</br>- None. It's a hardware problem.
