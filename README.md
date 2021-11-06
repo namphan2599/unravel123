@@ -1,1 +1,1 @@
-## How many programmers does it take to screw in a light bulb?</br>- None. It's a hardware problem.
+## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
