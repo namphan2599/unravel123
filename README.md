@@ -1,1 +1,1 @@
-## "We messed up the keming again guys."
+## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
