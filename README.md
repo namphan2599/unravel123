@@ -1,1 +1,3 @@
-## Why do Java programmers hate communism?</br>- They don't want to live in a classless society.
+## "Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
