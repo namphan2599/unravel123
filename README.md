@@ -1,3 +1,1 @@
-## "Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."
+## Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
