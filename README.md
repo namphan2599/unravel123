@@ -1,1 +1,1 @@
-## Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+## Hey baby I wish your name was asynchronous...</br>- ... so you'd give me a callback.
