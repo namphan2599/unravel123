@@ -1,1 +1,1 @@
-## why do python programmers wear glasses?</br>- Because they can't C.
+## Why did the web developer walk out of a resturant in disgust?</br>- The seating was laid out in tables.
