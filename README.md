@@ -1,1 +1,1 @@
-## Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
+## Why do programmers confuse Halloween and Christmas?</br>- Because Oct 31 = Dec 25
