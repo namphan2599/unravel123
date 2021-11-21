@@ -1,1 +1,1 @@
-## Why do programmers confuse Halloween and Christmas?</br>- Because Oct 31 = Dec 25
+## There are only 10 kinds of people in this world: those who know binary and those who don't.
