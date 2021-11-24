@@ -1,1 +1,1 @@
-## Why did the programmer jump on the table?</br>- Because debug was on his screen.
+## So what's a set of predefined steps the government might take to preserve the environment?</br>- An Al-Gore-ithm.
