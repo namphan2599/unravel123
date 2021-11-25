@@ -1,1 +1,1 @@
-## So what's a set of predefined steps the government might take to preserve the environment?</br>- An Al-Gore-ithm.
+## Why did the functional programmer get thrown out of school?</br>- Because he refused to take classes.
