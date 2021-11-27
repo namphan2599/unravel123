@@ -1,1 +1,1 @@
-## Why do they call it hyper terminal?</br>- Too much Java.
+## Hey baby I wish your name was asynchronous...</br>- ... so you'd give me a callback.
