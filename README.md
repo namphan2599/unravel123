@@ -1,1 +1,1 @@
-## Hey baby I wish your name was asynchronous...</br>- ... so you'd give me a callback.
+## Hey, wanna hear a joke?</br>- Parsing HTML with regex.
