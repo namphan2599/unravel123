@@ -1,1 +1,1 @@
-## Hey, wanna hear a joke?</br>- Parsing HTML with regex.
+## What's the object-oriented way to become wealthy?</br>- Inheritance.
