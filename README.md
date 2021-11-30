@@ -1,1 +1,1 @@
-## What's the object-oriented way to become wealthy?</br>- Inheritance.
+## How did the programmer die in the shower?</br>- He read the shampoo bottle instructions: Lather. Rinse. Repeat.
