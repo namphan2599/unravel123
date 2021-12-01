@@ -1,1 +1,1 @@
-## How did the programmer die in the shower?</br>- He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+## The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
