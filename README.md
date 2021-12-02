@@ -1,1 +1,1 @@
-## The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+## What are bits?</br>- Tiny things left when you drop your computer down the stairs.
