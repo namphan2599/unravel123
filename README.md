@@ -1,1 +1,1 @@
-## What are bits?</br>- Tiny things left when you drop your computer down the stairs.
+## Why was the JavaScript developer sad?</br>- Because they didn't Node how to Express themself!
