@@ -1,1 +1,1 @@
-## Why was the JavaScript developer sad?</br>- Because they didn't Node how to Express themself!
+## Hey, wanna hear a joke?</br>- Parsing HTML with regex.
