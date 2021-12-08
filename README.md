@@ -1,1 +1,1 @@
-## What is a dying programmer's last program?</br>- Goodbye, world!
+## How do you generate a random string?</br>- Put a Windows user in front of Vim and tell them to exit.
