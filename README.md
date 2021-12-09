@@ -1,1 +1,1 @@
-## How do you generate a random string?</br>- Put a Windows user in front of Vim and tell them to exit.
+## Why did the database administrator leave his wife?</br>- She had one-to-many relationships.
