@@ -1,1 +1,1 @@
-## Why did the database administrator leave his wife?</br>- She had one-to-many relationships.
+## Hey baby I wish your name was asynchronous...</br>- ... so you'd give me a callback.
