@@ -1,1 +1,1 @@
-## Hey baby I wish your name was asynchronous...</br>- ... so you'd give me a callback.
+## Algorithm: A word used by programmers when they don't want to explain how their code works.
