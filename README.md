@@ -1,1 +1,1 @@
-## Algorithm: A word used by programmers when they don't want to explain how their code works.
+## Why did the database administrator leave his wife?</br>- She had one-to-many relationships.
