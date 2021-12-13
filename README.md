@@ -1,1 +1,1 @@
-## Why did the database administrator leave his wife?</br>- She had one-to-many relationships.
+## What are bits?</br>- Tiny things left when you drop your computer down the stairs.
