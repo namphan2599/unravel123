@@ -1,1 +1,1 @@
-## What are bits?</br>- Tiny things left when you drop your computer down the stairs.
+## What do you get if you lock a monkey in a room with a typewriter for 8 hours?</br>- A regular expression.
