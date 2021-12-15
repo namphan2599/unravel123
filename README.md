@@ -1,1 +1,1 @@
-## What do you get if you lock a monkey in a room with a typewriter for 8 hours?</br>- A regular expression.
+## How did the programmer die in the shower?</br>- He read the shampoo bottle instructions: Lather. Rinse. Repeat.
