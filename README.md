@@ -1,1 +1,1 @@
-## Why did the Python data scientist get arrested at customs?</br>- She was caught trying to import pandas!
+## The generation of random numbers is too important to be left to chance.
