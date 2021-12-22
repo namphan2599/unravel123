@@ -1,2 +1,1 @@
-## A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+## How many programmers does it take to screw in a light bulb?</br>- None. It's a hardware problem.
