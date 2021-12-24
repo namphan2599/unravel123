@@ -1,1 +1,5 @@
-## Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+## Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
