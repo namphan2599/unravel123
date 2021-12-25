@@ -1,5 +1,1 @@
-## Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+## How can you tell an extroverted programmer?</br>- He looks at YOUR shoes when he's talking.
