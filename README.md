@@ -1,1 +1,1 @@
-## How can you tell an extroverted programmer?</br>- He looks at YOUR shoes when he's talking.
+## If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
