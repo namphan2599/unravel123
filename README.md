@@ -1,1 +1,1 @@
-## Why is Linux safe?</br>- Hackers peak through Windows only.
+## If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
