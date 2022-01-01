@@ -1,1 +1,4 @@
-## I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+## "Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
