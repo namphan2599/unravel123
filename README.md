@@ -1,4 +1,2 @@
-## "Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+## A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
