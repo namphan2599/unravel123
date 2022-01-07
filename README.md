@@ -1,1 +1,2 @@
-## Your momma is so fat, you need to switch to NTFS to store a picture of her.
+## Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
