@@ -1,1 +1,1 @@
-## I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+## Why is Linux safe?</br>- Hackers peak through Windows only.
