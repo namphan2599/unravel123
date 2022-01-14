@@ -1,1 +1,5 @@
-## What do you call a group of 8 Hobbits?</br>- A Hobbyte.
+## Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
