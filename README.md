@@ -1,1 +1,1 @@
-## Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+## Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
