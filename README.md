@@ -1,1 +1,2 @@
-## How do you know God is a shitty programmer?</br>- He wrote the OS for an entire universe, but didn't leave a single useful comment.
+## A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
