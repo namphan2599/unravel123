@@ -1,2 +1,1 @@
-## A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+## How did you make your friend rage?</br>- I implemented a greek question mark in his JavaScript code.
