@@ -1,1 +1,4 @@
-## How did you make your friend rage?</br>- I implemented a greek question mark in his JavaScript code.
+## Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
