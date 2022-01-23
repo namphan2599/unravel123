@@ -1,1 +1,2 @@
-## I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+## Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
