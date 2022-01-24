@@ -1,2 +1,1 @@
-## Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+## How can you tell an extroverted programmer?</br>- He looks at YOUR shoes when he's talking.
