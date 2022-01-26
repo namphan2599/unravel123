@@ -1,1 +1,1 @@
-## What is the most used language in programming?</br>- Profanity.
+## Why did the functional programmer get thrown out of school?</br>- Because he refused to take classes.
