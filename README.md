@@ -1,1 +1,1 @@
-## Why did the functional programmer get thrown out of school?</br>- Because he refused to take classes.
+## Why is Linux safe?</br>- Hackers peak through Windows only.
