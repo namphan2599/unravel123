@@ -1,1 +1,1 @@
-## Why is Linux safe?</br>- Hackers peak through Windows only.
+## Why are modern programming languages so materialistic?</br>- Because they are object-oriented.
