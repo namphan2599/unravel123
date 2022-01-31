@@ -1,1 +1,1 @@
-## Why did the database administrator leave his wife?</br>- She had one-to-many relationships.
+## Why did the functional programmer get thrown out of school?</br>- Because he refused to take classes.
