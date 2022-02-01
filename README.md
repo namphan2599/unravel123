@@ -1,1 +1,1 @@
-## Why did the functional programmer get thrown out of school?</br>- Because he refused to take classes.
+## Why do programmers confuse Halloween and Christmas?</br>- Because Oct 31 = Dec 25
