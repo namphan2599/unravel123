@@ -1,1 +1,1 @@
-## Why do programmers confuse Halloween and Christmas?</br>- Because Oct 31 = Dec 25
+## How did you make your friend rage?</br>- I implemented a greek question mark in his JavaScript code.
