@@ -1,1 +1,1 @@
-## How did you make your friend rage?</br>- I implemented a greek question mark in his JavaScript code.
+## Why do programmers wear glasses?</br>- Because they need to C#
