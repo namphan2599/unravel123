@@ -1,1 +1,1 @@
-## Why do programmers wear glasses?</br>- Because they need to C#
+## Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
