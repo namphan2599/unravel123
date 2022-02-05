@@ -1,1 +1,1 @@
-## Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
+## How did the programmer die in the shower?</br>- He read the shampoo bottle instructions: Lather. Rinse. Repeat.
