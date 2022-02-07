@@ -1,1 +1,1 @@
-## How did the programmer die in the shower?</br>- He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+## If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
