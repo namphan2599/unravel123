@@ -1,1 +1,6 @@
-## If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+## "Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
