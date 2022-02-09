@@ -1,6 +1,1 @@
-## "Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+## // This line doesn't actually do anything, but the code stops working when I delete it.
