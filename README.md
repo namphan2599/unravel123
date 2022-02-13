@@ -1,1 +1,1 @@
-## Why is 6 afraid of 7 in hexadecimal Canada?</br>- Because 7 8 9 A?
+## Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
