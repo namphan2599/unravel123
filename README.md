@@ -1,1 +1,1 @@
-## What is the most used language in programming?</br>- Profanity.
+## Why did the web developer walk out of a resturant in disgust?</br>- The seating was laid out in tables.
