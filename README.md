@@ -1,1 +1,1 @@
-## Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+## Why do programmers confuse Halloween and Christmas?</br>- Because Oct 31 = Dec 25
