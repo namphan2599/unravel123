@@ -1,1 +1,1 @@
-## Why do programmers confuse Halloween and Christmas?</br>- Because Oct 31 = Dec 25
+## How do you know God is a shitty programmer?</br>- He wrote the OS for an entire universe, but didn't leave a single useful comment.
