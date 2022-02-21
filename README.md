@@ -1,1 +1,1 @@
-## How do you know God is a shitty programmer?</br>- He wrote the OS for an entire universe, but didn't leave a single useful comment.
+## I have a joke about Stack Overflow, but you would say it's a duplicate.
