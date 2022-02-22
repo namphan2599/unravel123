@@ -1,1 +1,1 @@
-## I have a joke about Stack Overflow, but you would say it's a duplicate.
+## Why did the Python programmer not respond to the foreign mails he got?</br>- Because his interpreter was busy collecting garbage.
