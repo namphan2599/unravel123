@@ -1,1 +1,1 @@
-## Why did the Python programmer not respond to the foreign mails he got?</br>- Because his interpreter was busy collecting garbage.
+## Why did the functional programmer get thrown out of school?</br>- Because he refused to take classes.
