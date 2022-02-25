@@ -1,1 +1,1 @@
-## Why is Linux safe?</br>- Hackers peak through Windows only.
+## How many programmers does it take to screw in a light bulb?</br>- None. It's a hardware problem.
