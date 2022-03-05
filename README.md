@@ -1,3 +1,1 @@
-## "Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."
+## So what's a set of predefined steps the government might take to preserve the environment?</br>- An Al-Gore-ithm.
