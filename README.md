@@ -1,1 +1,1 @@
-## So what's a set of predefined steps the government might take to preserve the environment?</br>- An Al-Gore-ithm.
+## How did the programmer die in the shower?</br>- He read the shampoo bottle instructions: Lather. Rinse. Repeat.
