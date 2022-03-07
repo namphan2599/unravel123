@@ -1,1 +1,1 @@
-## How did the programmer die in the shower?</br>- He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+## What do you call a group of 8 Hobbits?</br>- A Hobbyte.
